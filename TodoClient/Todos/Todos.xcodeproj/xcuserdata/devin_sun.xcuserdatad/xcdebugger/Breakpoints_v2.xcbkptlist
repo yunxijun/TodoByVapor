@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D0F8C47F-A4CB-49FE-832B-28D9F8292435"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "670B7F47-418A-4C55-82A1-B8EF4F2FBBBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Todos/Model/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "SearchSettingModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "670B7F47-418A-4C55-82A1-B8EF4F2FBBBE - 11c3a3c9e6dfd3fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Todos.SearchSettingModel.__allocating_init() -&gt; Todos.SearchSettingModel"
+                  moduleName = "Todos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devin_sun/Project/Test/Todos/Todos/Model/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "670B7F47-418A-4C55-82A1-B8EF4F2FBBBE - f9d52ab065378b22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Todos.SearchSettingModel.init() -&gt; Todos.SearchSettingModel"
+                  moduleName = "Todos"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devin_sun/Project/Test/Todos/Todos/Model/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
